@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
-
+project(Lab_Report_Creator)
 # Main Step 0: Add CMake dependencies
 # ------------------------------------------------------------------------------------------------------
 MESSAGE(STATUS "Adding CMake modules...")
